@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ECOPONTOS EM ITAPEVA - SP</string>
+    <string name="telaConsultaBairros">BAIRROS COM ECOPONTOS:</string>
+    <string name="contentDescriptionBuscar">Buscar</string>
+    <string name="contentDescriptionInfor">Informações</string>
+    <string name="informacoes1">INFORMAÇÕES GERAIS DO APLICATIVO</string>
+    <string name="version">Versão: 1.1</string>
+    <string name="update">Última atualização em: 08 de Maio de 2018</string>
+    <string name="email">E-mail de contato: leonil.neto@gmail.com</string>
+    <string name="ecopontos">ECOPONTOS</string>
+    <string name="info">INFORMAÇÕES</string>
+    <string name="inicial_verde">Botão VERDE para CONSULTAR ECOPONTOS EM ITAPEVA</string>
+    <string name="inicial_azul">Botão AZUL para INFORMAÇÕES DO APLICATIVO</string>
+</resources>
